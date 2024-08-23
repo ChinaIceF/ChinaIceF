@@ -12,4 +12,5 @@
 
 <p align="center">
     <img src="./asserts/silicon_ui_128_128.png" alt="PyQt-SiliconUI Logo" style="width: 96px; height: 96px; ">
+    <img src="./asserts/my_todos_128_128.png" alt="My-TODOs Logo" style="width: 96px; height: 96px; ">
 </p>
